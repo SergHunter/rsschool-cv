@@ -15,3 +15,13 @@
    - [https://serghunter.github.io/education-website/]
    - [https://serghunter.github.io/simple-page-constraction/]
 
+6. Code example:
+      ~~~
+      function countRabbits(){
+      for(let i = 1; i <= 5; i++){
+      alert('Rabbit number ' + i);
+      }
+      }
+      ~~~
+      
+   
