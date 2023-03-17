@@ -23,5 +23,8 @@
       }
       }
       ~~~
-      
+7. Languages:
+   - Russian - Native
+   - Ukrainian - Intermediate
+   - English - Intermediate      
    
