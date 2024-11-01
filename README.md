@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SergHunte.github.io/rsschool-cv/cv
